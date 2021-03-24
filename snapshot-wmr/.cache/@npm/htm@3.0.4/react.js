@@ -1,0 +1,1 @@
+import{createElement as m}from"/@npm/es-react";import r from"/@npm/htm";var t=r.bind(m);export{t as html};

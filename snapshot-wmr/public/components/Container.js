@@ -1,0 +1,22 @@
+import{ React,  useContext, useEffect } from "es-react";
+import  {PhotoContext}  from "../context/PhotoContext.js";
+import Gallery from "./Gallery";
+import Loader from "./Loader";
+ 
+
+const Container = ({ searchTerm }) => {
+   const { images, loading, runSearch } = useContext(PhotoContext);
+   
+  useEffect(() => {
+    runSearch(searchTerm);
+    // eslint-disable-next-line
+  }, [searchTerm]);
+
+  return (
+    <div className="photo-container">
+      {loading ? <Loader /> : <Gallery data={images} />}
+    </div>
+  );
+};
+
+export default Container;

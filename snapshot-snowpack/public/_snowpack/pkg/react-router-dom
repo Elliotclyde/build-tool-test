@@ -1,0 +1,16 @@
+/*
+ * Skypack CDN - react-router-dom@5.2.0
+ *
+ * Learn more:
+ *   📙 Package Documentation: https://www.skypack.dev/view/react-router-dom
+ *   📘 Skypack Documentation: https://www.skypack.dev/docs
+ *
+ * Pinned URL: (Optimized for Production)
+ *   ▶️ Normal: https://cdn.skypack.dev/pin/react-router-dom@v5.2.0-8DOqbrUqRyUDlpH8TttM/mode=imports/optimized/react-router-dom.js
+ *   ⏩ Minified: https://cdn.skypack.dev/pin/react-router-dom@v5.2.0-8DOqbrUqRyUDlpH8TttM/mode=imports,min/optimized/react-router-dom.js
+ *
+ */
+
+// Browser-Optimized Imports (Don't directly import the URLs below in your application!)
+export * from '/_snowpack/pkg/-/react-router-dom@v5.2.0-8DOqbrUqRyUDlpH8TttM/dist=es2020,mode=imports/optimized/react-router-dom.js';
+export {default} from '/_snowpack/pkg/-/react-router-dom@v5.2.0-8DOqbrUqRyUDlpH8TttM/dist=es2020,mode=imports/optimized/react-router-dom.js';

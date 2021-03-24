@@ -1,0 +1,16 @@
+/*
+ * Skypack CDN - @testing-library/jest-dom@5.11.9
+ *
+ * Learn more:
+ *   📙 Package Documentation: https://www.skypack.dev/view/@testing-library/jest-dom
+ *   📘 Skypack Documentation: https://www.skypack.dev/docs
+ *
+ * Pinned URL: (Optimized for Production)
+ *   ▶️ Normal: https://cdn.skypack.dev/pin/@testing-library/jest-dom@v5.11.9-gMGjSW4H7HfaKsxJQ8xx/mode=imports/unoptimized/extend-expect.js
+ *   ⏩ Minified: https://cdn.skypack.dev/pin/@testing-library/jest-dom@v5.11.9-gMGjSW4H7HfaKsxJQ8xx/mode=imports,min/unoptimized/extend-expect.js
+ *
+ */
+
+// Browser-Optimized Imports (Don't directly import the URLs below in your application!)
+export * from '/_snowpack/pkg/-/@testing-library/jest-dom@v5.11.9-gMGjSW4H7HfaKsxJQ8xx/dist=es2020,mode=imports/unoptimized/extend-expect.js';
+export {default} from '/_snowpack/pkg/-/@testing-library/jest-dom@v5.11.9-gMGjSW4H7HfaKsxJQ8xx/dist=es2020,mode=imports/unoptimized/extend-expect.js';

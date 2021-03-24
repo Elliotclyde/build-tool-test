@@ -1,0 +1,1 @@
+export default function(n,o){if(!n){var r="Warning: "+o;"undefined"!=typeof console&&console.warn(r);try{throw Error(r)}catch(e){}}}
