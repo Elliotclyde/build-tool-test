@@ -10,7 +10,8 @@
     "serve": "wmr serve --http2"
   },
   "alias": {
-    "htm/preact": "htm/react"
+    "htm/preact": "htm/react",
+    "react": "es-react"
   },
   "author": "",
   "license": "ISC",

@@ -4,7 +4,7 @@ This was pulled down from https://unpkg.com/browse/react-router@5.2.0/esm/react-
 And edited until it fully worked in the browser.
 
 I needed to make edits to pathToRegex and the history package to ensure that this would 
-work in the browser. 
+work in the browser. I also replaced the React import with an import from es-react.
 
 */
 
