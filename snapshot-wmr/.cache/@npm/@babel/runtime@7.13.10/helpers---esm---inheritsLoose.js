@@ -1,1 +1,0 @@
-function _setPrototypeOf(t,o){return(_setPrototypeOf=Object.setPrototypeOf||function(t,o){return t.__proto__=o,t})(t,o)}export default function(t,o){t.prototype=Object.create(o.prototype),t.prototype.constructor=t,_setPrototypeOf(t,o)}

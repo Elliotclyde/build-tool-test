@@ -1,1 +1,0 @@
-export default function(e,n){if(null==e)return{};var r,t,f={},u=Object.keys(e);for(t=0;t<u.length;t++)r=u[t],n.indexOf(r)>=0||(f[r]=e[r]);return f}
