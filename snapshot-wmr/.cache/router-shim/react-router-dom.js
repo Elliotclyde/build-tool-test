@@ -1,4 +1,5 @@
-import process from '/@builtins/process.js';import { Router, __RouterContext, matchPath } from './react-router.js';
+import process from '/@builtins/process.js';
+import { Router, __RouterContext, matchPath } from './react-router.js';
 export { MemoryRouter, Prompt, Redirect, Route, Router, StaticRouter, Switch, generatePath, matchPath, useHistory, useLocation, useParams, useRouteMatch, withRouter } from './react-router.js';
 import _inheritsLoose from '/@npm/@babel/runtime/helpers/esm/inheritsLoose';
 import  {React} from '/@npm/es-react';

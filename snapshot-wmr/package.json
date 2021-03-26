@@ -10,8 +10,7 @@
     "serve": "wmr serve --http2"
   },
   "alias": {
-    "htm/preact": "htm/react",
-    "react": "es-react"
+    "htm/preact": "htm/react"
   },
   "author": "",
   "license": "ISC",
@@ -19,7 +18,6 @@
     "axios-esm": "^1.0.0",
     "es-react": "^16.13.1",
     "history": "^4.9.0",
-    "path-to-regexp": "^1.7.0",
     "react-router": "^5.2.0",
     "react-router-dom": "^5.2.0",
     "wmr": "^1.3.2"
